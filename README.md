@@ -1,5 +1,5 @@
 <h1 align="center">Ayush Raj</h1>
-<p align="center">Professional Web Developer | Building modern and scalable web applications</p>
+<p align="center">Professional Web Developer | Building modern and scalable web applications|Competitive Coder</p>
 
 ---
 
